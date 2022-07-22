@@ -16,7 +16,7 @@ To install this project from github simply clone the repository into your system
 ## How to use
 To use the J.A.T.E program simply hit the install button in the browser. Once it is installed you can start using it as a text editor. The following gif shows the functionality.
 
-[Usage Gif](./assets/Untitled_%20Jul%2022%2C%202022%2011_03%20AM.gif)
+![Usage Gif](./assets/Untitled_%20Jul%2022%2C%202022%2011_03%20AM.gif)
 ## Credits
 - Scott "Billy" Pinkerton
 - UofA Coding Bootcamp
